@@ -1,44 +1,58 @@
 {
-    "name": "timoideas-pack",
-    "displayName": "Timoideas - Pack Extensions",
-    "description": "Paquete de extensiones que uso habitualmente",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "alefragnani.Bookmarks", 
-        "bradgashler.htmltagwrap", 
-        "christian-kohler.npm-intellisense", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "FernandoTimo.timoideas", 
-        "FernandoTimo.timoideas-snippets", 
-        "FernandoTimo.timoideas-themes", 
-        "formulahendry.auto-rename-tag", 
-        "formulahendry.code-runner", 
-        "gogocrow.jsx-beautify", 
-        "GraphQL.vscode-graphql", 
-        "johnpapa.vscode-peacock", 
-        "mikestead.dotenv", 
-        "ms-azuretools.vscode-docker", 
-        "naumovs.color-highlight", 
-        "oderwat.indent-rainbow", 
-        "PKief.material-icon-theme", 
-        "pranaygp.vscode-css-peek", 
-        "ritwickdey.LiveServer", 
-        "Shan.code-settings-sync", 
-        "skyran.js-jsx-snippets", 
-        "sldobri.bunker", 
-        "Tyriar.terminal-tabs", 
-        "usernamehw.errorlens", 
-        "vincaslt.highlight-matching-tag", 
-        "wix.vscode-import-cost"
-    ]
+  "name": "timoideas-pack",
+  "displayName": "Timoideas - Pack Extensions",
+  "description": "Paquete de extensiones que uso habitualmente",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "icon": "images/icon.png",
+  "publisher": "FernandoTimo",
+  "author": {
+    "name": "Fernando Timo"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/FernandoTimo/vsCode-Themes/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FernandoTimo/vsCode-Themes"
+  },
+  "bugs": {
+    "url": "https://github.com/FernandoTimo/vsCode-Themes/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.Bookmarks",
+    "bradgashler.htmltagwrap",
+    "christian-kohler.npm-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "FernandoTimo.timoideas",
+    "FernandoTimo.timoideas-snippets",
+    "FernandoTimo.timoideas-themes",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "gogocrow.jsx-beautify",
+    "GraphQL.vscode-graphql",
+    "johnpapa.vscode-peacock",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "ritwickdey.LiveServer",
+    "Shan.code-settings-sync",
+    "skyran.js-jsx-snippets",
+    "sldobri.bunker",
+    "Tyriar.terminal-tabs",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "wix.vscode-import-cost"
+  ]
 }
