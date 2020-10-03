@@ -2,7 +2,7 @@
   "name": "timoideas-pack",
   "displayName": "Timoideas - Pack Extensions",
   "description": "Paquete de extensiones que uso habitualmente",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.12.0"
   },
